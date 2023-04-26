@@ -1,1 +1,296 @@
+{
+  "config": {
+    "currentAppVersion": "1.0.0",
+    "forceUpdate": true,
+    "title": "Update available",
+    "body": "New version is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.demo.guide"
+  },
+  "ads": {
+    "adNetwork": "admob",
+    "frequency": 2,
+    "ids": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "appOpen": "ca-app-pub-3940256099942544/3419835294"
+    }
+  },
+  "data_model": [
+    {
+      "type": "guide",
+      "title": "Lemon8: How to create your first post on the hottest new social network",
+      "img_url": "https://www.zdnet.com/a/img/resize/214034c50f8b67ed274afb01ce2b9a06f3cab77e/2023/03/30/04eacce4-9835-47c7-a160-be1de802f365/lemon8-2.jpg?auto=webp&width=1280",
+      "guide_model": [
+        {
+          "subTitle": "Lemon8: How to create your first post on the hottest new social network",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://www.zdnet.com/a/img/resize/214034c50f8b67ed274afb01ce2b9a06f3cab77e/2023/03/30/04eacce4-9835-47c7-a160-be1de802f365/lemon8-2.jpg?auto=webp&width=1280",
+          "text": "The app has skyrocketed in popularity overnight. Here's how to create your profile and some tips to make your posts more visible.Lemon8, an Instagram-like lifestyle app from ByteDance (the creators of TikTok), has welcomed a swath of creators within the last week. Lemon8 is a platform for creators to share photos and short videos about wellness, travel, food, and beauty.Also: The best ring lights: Level up your TikToks. If you want to get in on the Lemon8 hype and try your luck at being an early adopter of the hottest new social media app, here's how to start creating your first post.",
+          "isNative": false
+        },
+        {
+          "subTitle": "How to create a post on Lemon8",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "What you need: You can use an iPhone, iPad, or iPod Touch that can run iOS 11 or later. You can also use an Android phone or tablet that can run Android 6.0 or later. The process should take approximately 30 minutes to one hour.",
+          "isNative": false
+        },
+        {
+            "subTitle": "1. Download Lemon8",
+            "linkTitle": "",
+            "Link": "",
+            "img_url": "",
+            "text": "Lemon8 is available for download in the App Store and on Google Play. Once downloaded, the app will ask you to create an account and choose your username. Then, you'll be prompted to select your interests, like home, travel, wellness, food, fashion, accessories, etc.",
+            "isNative": false
+        },
+        {
+            "subTitle": "2. Finish setting up your account",
+            "linkTitle": "",
+            "Link": "",
+            "img_url": "https://www.zdnet.com/a/img/resize/84d6c503322e76cf1adc04a2a27d2f4f8f3bdab5/2023/03/30/09c1c990-a37e-440b-ade7-42d21d60fe68/img-6323-1.jpg?auto=webp&width=540",
+            "text": "Once you've created your account, you'll need to finish setting it up to give your followers a sense of your personality.Also: How to go live on TikTok ( and how it can earn you real money Here, you'll write a bio, choose a profile picture, and link to your TikTok, Instagram, Twitter, and YouTube accounts if you choose.",
+            "isNative": false
+        },
+        {
+            "subTitle": "3. Choose your photos",
+            "linkTitle": "",
+            "Link": "",
+            "img_url": "",
+            "text": "Now that your account is set up, you're ready to start posting. Before making a post, you'll need to grant Lemon8 access to your photos. You can give the app access to select images or your entire camera roll.Once you've chosen your pictures or videos for your first post, you can choose a template based on the theme of your content. ",
+            "isNative": false
+        },
+        {
+            "subTitle": "4. Edit your photos and videos",
+            "linkTitle": "",
+            "Link": "",
+            "img_url": "https://www.zdnet.com/a/img/resize/48aebfc61a3a544b1706df72a73e63d7337da28f/2023/03/30/ba72b5e7-917b-4fdf-ab73-0a27101ea3b6/img-6335.jpg?auto=webp&width=540",
+            "text": "Luckily, you don't need a separate photo editing app when using Lemon8. The app has many templates, filters, fonts, and stickers to make your photos fit a certain vibe or aesthetic. Also: How to use PhotoShop: 5 basic steps to edit a photo You can take very simplistic photos and turn them into artsy social media posts with the editing tools on Lemon8. ",
+            "isNative": false
+        },
+        {
+            "subTitle": "5. Create a caption",
+            "linkTitle": "",
+            "Link": "",
+            "img_url": "https://www.zdnet.com/a/img/resize/22b85d75e1e537a1cd38e175b531def0ce49cf49/2023/03/30/27e5d7d4-a12c-4ea1-8aa9-b8c007ae907d/img-6343.png?auto=webp&width=540",
+            "text": "Lemon8 posts don't have to have a caption, but it's recommended to write one to make your posts more visible. There are two parts to a Lemon8 caption: A headline and the body text. You can use the templates if you need help coming up with a caption, and the templates relate to trending topics like beauty, food, and travel. You can also add hashtags at the end of your caption to increase your post's visibility, as people browsing a hashtag may find your post.  Also: How can I easily tell if someone's following me on Instagram? Then, you can press 'Done' and wait for your post to upload.",
+            "isNative": false
+        }
 
+      ],
+      "data_model": []
+    },
+    {
+      "type": "guide",
+      "title": "Lemon8 101 | Guide to Editing Tools 👩‍🎨",
+      "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/9542ff48321a4ee88f0c2f18c3ad52fe~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=kIOrkMqXScXB%2F%2Bj1pXS8n9E7Msc%3D",
+      "guide_model": [
+        {
+          "subTitle": "Lemon8 101 | Guide to Editing Tools 👩‍🎨",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/9542ff48321a4ee88f0c2f18c3ad52fe~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=kIOrkMqXScXB%2F%2Bj1pXS8n9E7Msc%3D",
+          "text": "We’re back again with another tip of the week 💡 This time we’re doing a deep dive in to our Lemon8 in-app editing tools! Swipe to check out some of our favourite tools along with a step-by-step guide to help you take your content creation game to the next level. ❤️‍🔥 🔧In-app tools to explore:  1️⃣ Font Styles 2️⃣ Text Customizer 3️⃣ Templates 4️⃣ Stickers/Cut Outs",
+          "isNative": true 
+        },
+        {
+          "subTitle": "",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/a46dca762e554f29a19a17dce0f4a052~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=V5yBsrQmwqSLgSzGvMPBQZWRG1o%3D",
+          "text": "  ",
+          "isNative": false
+        },
+        {
+          "subTitle": "",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/3072c766f0564783a87a38e755aeb136~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=i7jy%2F5ps4RExdxBZUCa85vr9kKw%3D",
+          "text": "  ",
+          "isNative": false
+        },
+        {
+          "subTitle": "",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/de9cb90421ed427fbb324ca053b5d293~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=MIzzsrutRyQVV%2BR8nK%2BJSdPNMlQ%3D",
+          "text": "  ",
+          "isNative": false
+        }
+      ],
+      "data_model": []
+    },
+    {
+      "type": "guide",
+      "title": "Lemon8 101 | READ this before posting! 🚨💨",
+      "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/fd99d341c67e4cce80e2560049e20307~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=Tdwa2O4fXb8djJDkEIiXIwhviHs%3D",
+      "guide_model": [
+        {
+          "subTitle": "Lemon8 101 | READ this before posting! 🚨💨",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/fd99d341c67e4cce80e2560049e20307~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=Tdwa2O4fXb8djJDkEIiXIwhviHs%3D",
+          "text": "New to Lemon8 and still working on your first post, or simply getting used to our platform? You’re at the right place 💡 Whether you’re sharing a review, recommendation or simply sharing your experience, here are some DO’s & DON’Ts so that your post is optimised to perform the best that it can and reach the right people!",
+          "isNative": false
+        },
+        {
+          "subTitle": "🟡 Share personalised & informative content",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/fdff8c34be844311bca12f49d18d47b9~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=HcC0o0VfDorHj2wLty%2FKMswrpxg%3D",
+          "text": "Think of it as recommending something to your bestie! Give a well-rounded review from ambience to product, price and more. If you’re sharing your experience, share what you’ve learn from it too!",
+          "isNative": false
+        },
+        {
+          "subTitle": "🟡 Use 3:4 sizing for ALL pictures & videos",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/27b466491d0a41da8ccf92ad741c12fb~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=A7xZQR7T0PL2VEAM5zpXECKF8gI%3D",
+          "text": "This size works best on Lemon8 as you’ll have more space to include your text titles, do collages and more. It’ll also give a cohesive look to your feed so it’s more aesthetically pleasing",
+          "isNative": false
+        },
+        {
+          "subTitle": "🟡 Aesthetic Cover Image",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "A general rule of thumb is to use no more than 3 fonts and colours in any one visual. Also avoid using excessive stickers or using graphic/illustrations only as it can look ad-like and be less appealing.",
+          "isNative": false
+        },
+        {
+          "subTitle": "🟡Add a text title to your cover image!",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Why do we do this on Lemon8? This provides more context to users who are scrolling through our feed and deciding what post to tap on. With a post title, users are able to expect what the content will be about, further enticing them to click in!",
+          "isNative": false
+        },
+        {
+          "subTitle": "Lemon8 vs. Instagram: Which one is better?",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Lemon8's For You page is very similar to Instagram's Explore page. Lemon8's focus on photo-sharing, brand advertising, and selling an aesthetic closely resembles Instagram's interface and its influencers' posting habits. However, a significant difference between Lemon8 and Instagram is that Lemon8 doesn't have a verification system yet. Lemon8 is prepping for an official launch in May, when it can be assumed that more prominent names in the social media industry will debut on the app, creating a need for verifying users. The most significant difference between Lemon8 and Instagram is that Lemon8 is just new and fresh for social media users. Many of us have been on Instagram as early as 2010, and it's worn a lot of new faces, each failing to dazzle existing users. TikTok created a new generation of social media celebrities, and maybe Lemon8 will do the same thing. Do you plan to start a Lemon8 profile? Let us know in the comments.",
+          "isNative": false
+        }
+      ],
+      "data_model": []
+    },
+    {
+      "type": "guide",
+      "title": "Lemon101 | Guide to Cover Photo 📔📸",
+      "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/7a79dcf22b0248e78b20aec1a72fe519~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=rOjCJ%2FlFEteF6YwvLdUnFyyxkW4%3D",
+      "guide_model": [
+        {
+          "subTitle": "Lemon101 | Guide to Cover Photo 📔📸",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/7a79dcf22b0248e78b20aec1a72fe519~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=rOjCJ%2FlFEteF6YwvLdUnFyyxkW4%3D",
+          "text": "Creating a scroll-stopping cover photo can be tough - that’s why we’re here to help! ",
+          "isNative": false
+        },
+        {
+          "subTitle": "🎨Pick your aesthetic/design style",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/d08c7630e19c440fa41f20156ca53c11~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=4pEgecr7cfGroe2wyrv8f1oeg6I%3D",
+          "text": "We love it when you express your individuality through your aesthetic style. So pick what resonates best with you - cool & edgy, sweet & chic, cute & whimsical or others?",
+          "isNative": false
+        },
+        {
+          "subTitle": "🖼️ Decide on your photo layout",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/d64af9b9c532410d8b8588476013c6e9~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=67QXNcn%2B17lLRUZBIB463ZAYXGY%3D",
+          "text": "Is it going to be a photo collage or a photo cut out with multiple images? If you’re going for a simple & chic look, a simple 4 picture collage works best or if you’re going for fun & dynamic, create some photo cut outs and overlay them!",
+          "isNative": false
+        },
+        {
+          "subTitle": "📝 Create an intriguing visual text title and description",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/7b3965578cf04bcf89705ae03b01feef~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=3fVnXwzvDJQsgmZa2lSmmVOgcg0%3D",
+          "text": "Add some text on the cover photo to tell us what your post is about! We love an exciting text title that comes with a short and snappy description.",
+          "isNative": false
+        }
+      ],
+      "data_model": []
+    },
+    {
+      "type": "guide",
+      "title": "Lemon8 101 | Guide to Caption Writing ✏️",
+      "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/f4682d0c658b44c6b8e2e97f33123a25~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=oQpg2BN3IfUJrsbxd%2FcjNNmWFBQ%3D",
+      "guide_model": [
+        {
+          "subTitle": "Lemon8 101 | Guide to Caption Writing ✏️",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/f4682d0c658b44c6b8e2e97f33123a25~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=oQpg2BN3IfUJrsbxd%2FcjNNmWFBQ%3D",
+          "text": "Struggling to write your caption and hit the minimum 150 word count? Let us help you out 📝 We’ll walk you through the 7 key parts of what makes a GREAT caption on Lemon8 and some handy in-app tools to get started:",
+          "isNative": false
+        },
+        {
+          "subTitle": "1️⃣ Post Title",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/a5f446e7b893472d8781c9ef2a782496~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=uUpK3s4RUOfjevehtHJn7cdJgKw%3D",
+          "text": "This is the first thing that’ll let your readers decide if they want to tap on your post to read more. Make it exciting and personalised - no one likes a boring title 🤨",
+          "isNative": false
+        },
+        {
+          "subTitle": "2️⃣ Hook/Content",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "https://p16-lemon8-sign-sg.ibyteimg.com/tos-alisg-v-a3e477-sg/b916acfc88224c0186154255d6c9a81a~tplv-sdweummd6v-text-logo-v1:QGxlbW9uOF9zZw==:q75.jpeg?source=detail_list&x-expires=1684886400&x-signature=JfiwBTiDgNqQBnsCu2GJw48sSWc%3D",
+          "text": "Give a short introduction to what your post is about and make it personalised - perhaps why you’re even trying out this activity or product in the first place! 💭",
+          "isNative": false
+        },
+        {
+          "subTitle": "3️⃣ Basic Information",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Include overview of key information in bullet point - everything someone needs to know if they’re gonna try out your recommendation (tip: use emojis 💛) ",
+          "isNative": false
+        },
+        {
+          "subTitle": "4️⃣ The Experience",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Share the whole experience - tell us what it was like from the ambience to the accessibility! 🚕🚌",
+          "isNative": false
+        },
+        {
+          "subTitle": "5️⃣ Recommendation",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Get your reader to engage with your post - ask them to Like, Comment & Save your post if they found it helpful! 👍🏻",
+          "isNative": false
+        },
+        {
+          "subTitle": "6️⃣ Call To Action",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Include overview of key information in bullet point - everything someone needs to know if they’re gonna try out your recommendation (tip: use emojis 💛) ",
+          "isNative": false
+        },
+        {
+          "subTitle": "7️⃣ Hashtags",
+          "linkTitle": "",
+          "Link": "",
+          "img_url": "",
+          "text": "Increase your exposure by adding relevant hashtags! ",
+          "isNative": false
+        }
+      ],
+      "data_model": []
+    }
+  ]
+}
